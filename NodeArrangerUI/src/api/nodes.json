@@ -1,0 +1,37 @@
+[
+    {
+        "id": 3,
+        "text": "bacon",
+        "posiiton": 1
+    },
+    {
+        "id": 5,
+        "text": "eggs",
+        "posiiton": 2
+    },
+    {
+        "id": 7,
+        "text": "pancakes",
+        "posiiton": 3
+    },
+    {
+        "id": 2,
+        "text": "waffles",
+        "posiiton": 4
+    },
+    {
+        "id": 1,
+        "text": "danish",
+        "posiiton": 5
+    },
+    {
+        "id": 6,
+        "text": "orange juice",
+        "posiiton": 6
+    },
+    {
+        "id": 4,
+        "text": "milk",
+        "posiiton": 7
+    }
+]
